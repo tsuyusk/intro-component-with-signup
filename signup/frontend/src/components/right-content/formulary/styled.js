@@ -33,3 +33,8 @@ export const LittleText = styled.p`
     }
   }
 `;
+
+export const Error = styled.span `
+  color: #FF0000;
+  margin: 5px;
+`
